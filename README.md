@@ -3,7 +3,7 @@
 ### 学習中言語：C,HTML,CSS,Java,sql
 ### 趣味：ファッション
 
-趣味前回のサイト公開してるので是非!→https://tuikast358.github.io/fafa/
+趣味全開の自作サイトを公開しているので興味ある方は是非ご覧になってみて下さい！→https://tuikast358.github.io/fafa/
 
 
 <!--
