@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+名前：たつぞう
+職業：大学生
+学習中言語：C,HTML,CSS,Java,sql
+趣味：ファッション
+
+趣味前回のサイト公開してるので是非!→
+
+
 <!--
 **tuikast358/tuikast358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
